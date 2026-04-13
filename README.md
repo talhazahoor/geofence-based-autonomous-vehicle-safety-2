@@ -1,2 +1,5 @@
 # geofence-based-autonomous-vehicle-safety-2
-Enhance autonomous vehicle safety
+
+This repository was created by [Inceptzon](https://inceptzon.com).
+
+See `ARCHITECTURE.md` for the full technical architecture document.
